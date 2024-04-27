@@ -1,0 +1,23 @@
+{
+  "name": "joaov535/containerquotefreight",
+  "description": "",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "João Araujo Cruz",
+      "email": "joaovictorcruz535@gmail.com",
+      "homepage": "https://github.com/Joaov535"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "core\\": "core/",
+      "controllers\\": "controllers/",
+      "shippingCalculator\\": "shipping-calculator"
+    }
+  },
+  "require": {
+
+  }
+}
